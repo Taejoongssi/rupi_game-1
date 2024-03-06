@@ -1,3 +1,5 @@
+### 테스트 진행 ###
+print("hellow_test")
 import pygame
 import os
 import random
